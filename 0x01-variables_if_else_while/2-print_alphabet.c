@@ -2,7 +2,7 @@
 /**
  * main - Print alphabets in lower case using the putchar
  *
- * Return - 0 (Success)
+ * Return: - 0 (Success)
  */
 
 int main(void)
@@ -12,7 +12,6 @@ int main(void)
 	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
-		putchar('\n');
 	}
 
 	return (0);
