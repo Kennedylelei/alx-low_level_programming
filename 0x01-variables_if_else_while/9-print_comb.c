@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Print all possible combinations of single-digit numbers
+ * Numbers should be seperated (,) followed by space
  * Ascending order using putchar
  *
  * Return: Always 0 (Success)
