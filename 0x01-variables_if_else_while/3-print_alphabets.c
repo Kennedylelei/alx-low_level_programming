@@ -8,11 +8,12 @@
 int main(void)
 {
 	int x, k;
-	
+
 	for (x = 'a'; x <= 'z'; x++)
-	{        
+	{
 		putchar(x);
-        }
+	}
+
 	for (k = 'A'; k <= 'Z'; k++)
 	{
 		putchar(k);
